@@ -1,3 +1,4 @@
 pushing this local file to main repository made by developer1.
 have changed this by develoer 2
-... did some changes after create a branch
+... did some changes after create a branch in github.
+modified some changes in master branch from  git....
